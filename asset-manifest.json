@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/FruitSellingApp/static/css/main.994354cb.css",
+    "main.js": "/FruitSellingApp/static/js/main.ddc2a7ed.js",
+    "static/js/453.4925a48a.chunk.js": "/FruitSellingApp/static/js/453.4925a48a.chunk.js",
+    "static/media/fruits-splash.png": "/FruitSellingApp/static/media/fruits-splash.95aaaedef6d0f2f2700c.png",
+    "static/media/fruit-plate2.png": "/FruitSellingApp/static/media/fruit-plate2.cdd1797ecfc9a1612597.png",
+    "static/media/banner-bg.jpg": "/FruitSellingApp/static/media/banner-bg.8b3eba470670ec83e0d2.jpg",
+    "static/media/fruit-plate.png": "/FruitSellingApp/static/media/fruit-plate.9b326f9b0cdbbc5b87b8.png",
+    "static/media/apple.png": "/FruitSellingApp/static/media/apple.bfe5155197370c39c0cf.png",
+    "static/media/avocado.png": "/FruitSellingApp/static/media/avocado.6e497c8f6b9dd0670d0c.png",
+    "static/media/leaf.png": "/FruitSellingApp/static/media/leaf.2494492049ec270e2011.png",
+    "static/media/cherry.png": "/FruitSellingApp/static/media/cherry.a94d268ba2af72466766.png",
+    "static/media/orange.png": "/FruitSellingApp/static/media/orange.540c650ab19583b0adb2.png",
+    "index.html": "/FruitSellingApp/index.html",
+    "main.994354cb.css.map": "/FruitSellingApp/static/css/main.994354cb.css.map",
+    "main.ddc2a7ed.js.map": "/FruitSellingApp/static/js/main.ddc2a7ed.js.map",
+    "453.4925a48a.chunk.js.map": "/FruitSellingApp/static/js/453.4925a48a.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.994354cb.css",
+    "static/js/main.ddc2a7ed.js"
+  ]
+}
