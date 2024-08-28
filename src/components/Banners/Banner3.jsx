@@ -23,7 +23,7 @@ const Banner3 = (props) => {
         animate="visible"
         viewport={{once:true}}
         style={props.Off?{color:"black"}:{color:"black"}}
-        className="text-3xl lg:text-6xl font-bold uppercase">Brand Info</motion.h1>
+        className="text-3xl lg:text-6xl font-bold uppercase">Customer Care</motion.h1>
         <motion.p 
           variants={FadeLeft(0.7)}
           initial="hidden"
@@ -31,9 +31,10 @@ const Banner3 = (props) => {
           viewport={{once:true}}
           style={props.Off?{color:"black"}:{color:"black"}}
           className="font-semibold md:font-normal "
-        > Where quality meets freshness. We handpick
-           the finest fruits, delivering nature's best to your doorstep.
-            Taste the difference with every bite!</motion.p>
+        >Our fresh fruit products are handpicked to ensure premium quality and taste,
+ exceeding client expectations with every purchase.
+ Your satisfaction is our priority, guaranteed by our 
+ commitment to freshness and exceptional service.</motion.p>
        
       </div>
       <motion.div

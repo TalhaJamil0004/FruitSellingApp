@@ -31,7 +31,7 @@ const Banner = (props) => {
         <motion.p   variants={FadeUp(0.9)}
         initial="hidden"
         animate="visible"
-        viewport={{once:true}}> every bite is a burst of nature's goodness.
+        viewport={{once:true}}>Every bite is a burst of nature's goodness.
            Handpicked fruits delivered fresh, right to your doorstep</motion.p>
       </div>
       <motion.div

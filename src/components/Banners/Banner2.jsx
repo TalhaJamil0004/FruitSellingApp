@@ -13,20 +13,19 @@ const Banner2 = () => {
         initial="hidden"
         animate="visible"
         viewport={{once:true}}
-        className="text-3xl lg:text-6xl font-bold uppercase">Brand Info</motion.h1>
+        className="text-3xl lg:text-6xl font-bold uppercase">Our Aim</motion.h1>
         <motion.p 
           variants={FadeUp(0.7)}
           initial="hidden"
           animate="visible"
           viewport={{once:true}}
-        > Where quality meets freshness. We handpick
-           the finest fruits, delivering nature's best to your doorstep.
-            Taste the difference with every bite!</motion.p>
+        > "Fresh Fruit Selling App" offers a convenient way to buy
+         a wide variety of fresh fruits directly from local farms. </motion.p>
         <motion.p   variants={FadeUp(0.9)}
         initial="hidden"
         animate="visible"
-        viewport={{once:true}}> every bite is a burst of nature's goodness.
-           Handpicked fruits delivered fresh, right to your doorstep</motion.p>
+        viewport={{once:true}}> Enjoy quick delivery, seasonal deals, and the best quality produce right to your doorstep.
+         Shop easily, stay healthy, and support local farmers with every purchase!</motion.p>
       </div>
       <motion.div
                   variants={FadeUp(1.1)}
