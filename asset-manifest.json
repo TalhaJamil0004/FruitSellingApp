@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/FruitSellingApp/static/css/main.994354cb.css",
-    "main.js": "/FruitSellingApp/static/js/main.ddc2a7ed.js",
+    "main.js": "/FruitSellingApp/static/js/main.1fd44014.js",
     "static/js/453.4925a48a.chunk.js": "/FruitSellingApp/static/js/453.4925a48a.chunk.js",
     "static/media/fruits-splash.png": "/FruitSellingApp/static/media/fruits-splash.95aaaedef6d0f2f2700c.png",
     "static/media/fruit-plate2.png": "/FruitSellingApp/static/media/fruit-plate2.cdd1797ecfc9a1612597.png",
@@ -14,11 +14,11 @@
     "static/media/orange.png": "/FruitSellingApp/static/media/orange.540c650ab19583b0adb2.png",
     "index.html": "/FruitSellingApp/index.html",
     "main.994354cb.css.map": "/FruitSellingApp/static/css/main.994354cb.css.map",
-    "main.ddc2a7ed.js.map": "/FruitSellingApp/static/js/main.ddc2a7ed.js.map",
+    "main.1fd44014.js.map": "/FruitSellingApp/static/js/main.1fd44014.js.map",
     "453.4925a48a.chunk.js.map": "/FruitSellingApp/static/js/453.4925a48a.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.994354cb.css",
-    "static/js/main.ddc2a7ed.js"
+    "static/js/main.1fd44014.js"
   ]
 }
